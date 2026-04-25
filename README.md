@@ -1,4 +1,4 @@
-## 👋 About Me  
+## About Me  
 **DevOps student skilled in Git, Linux, Docker & CI/CD**
 
 ---
